@@ -1,4 +1,4 @@
-#include <napi.h>
+#include <node_api.h>
 #include "node-libsamplerate.h"
 
 Napi::Object Init(Napi::Env env, Napi::Object exports) {
